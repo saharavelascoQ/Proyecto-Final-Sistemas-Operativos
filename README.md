@@ -12,7 +12,7 @@ El desarrollo del proyecto permite poner en práctica los conocimientos adquirid
 
 | Integrante | Responsabilidad |
 |---|---|
-| Sahara Naylleth Velasco Quiguanas | Coordinación del proyecto y administración del repositorio. |
+| Sahara Naylleth Velasco  | Coordinación del proyecto y administración del repositorio. |
 | Stephani Rodriguez | Instalación y configuración de máquinas virtuales y red. |
 | Jaime Gonzalez | Administración del sistema, servicios y scripts. |
 
@@ -23,6 +23,8 @@ El desarrollo del proyecto permite poner en práctica los conocimientos adquirid
 | Máquina virtual gráfica | Kubuntu |
 | Máquina virtual de consola | Debian |
 | Imagen base de Docker | Ubuntu |
+
+La versión elegida y su verificación están en la [ficha de versión](https://joalcasta-uv.github.io/so-proyecto-final-demo/plan/ficha-version.html). El reparto del trabajo está en el [plan de trabajo](https://joalcasta-uv.github.io/so-proyecto-final-demo/plan/plan-de-trabajo.html).
 
 ## Desarrollo del proyecto
 
