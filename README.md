@@ -47,3 +47,4 @@ Se presenta una comparación de Kubuntu, Debian y Ubuntu, teniendo en cuenta sus
 
 Durante el desarrollo del proyecto se utilizaron herramientas de inteligencia artificial como Chatgpt, como  apoyo para la, comprensión de comandos y solución de dudas técnicas. 
 ## Repositorio
+https://github.com/saharavelascoQ/Proyecto-Final-Sistemas-Operativos
