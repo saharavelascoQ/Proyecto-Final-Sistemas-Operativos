@@ -24,7 +24,7 @@ El desarrollo del proyecto permite poner en práctica los conocimientos adquirid
 | Máquina virtual de consola | Debian |
 | Imagen base de Docker | Ubuntu |
 
-La versión elegida y su verificación están en la [ficha de versión](https://joalcasta-uv.github.io/so-proyecto-final-demo/plan/ficha-version.html). El reparto del trabajo está en el [plan de trabajo](https://joalcasta-uv.github.io/so-proyecto-final-demo/plan/plan-de-trabajo.html).
+La versión elegida y su verificación están en la [ficha de versión](https://github.com/saharavelascoQ/Proyecto-Final-Sistemas-Operativos/blob/main/plan/ficha-version.md). El reparto del trabajo está en el [plan de trabajo](https://github.com/saharavelascoQ/Proyecto-Final-Sistemas-Operativos/blob/main/plan/plan-de-trabajo.md).
 
 ## Desarrollo del proyecto
 
