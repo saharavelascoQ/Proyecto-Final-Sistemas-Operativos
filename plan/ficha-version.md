@@ -1,38 +1,63 @@
 
 # Ficha de verificación de versión · Grupo 1
 
-Fecha de consulta: 19 Noviembre 2026
+## ¿Qué es esta ficha?
 
-## 1. Kubuntu – Máquina virtual gráfica
+Esta ficha permite comprobar que las versiones de las distribuciones Linux elegidas sirven para desarrollar el proyecto. Se debe consultar la información en fuentes oficiales y agregar el enlace donde se verificó cada respuesta.
 
-| Pregunta | Respuesta | Enlace de la fuente oficial |
+Fecha de consulta: __________________
+
+## Distribuciones del Grupo 1
+
+- Kubuntu (máquina virtual gráfica).
+- Debian (máquina virtual de consola).
+- Ubuntu (imagen base del Dockerfile).
+
+## 1. Kubuntu (VM gráfica)
+
+| **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
 | Versión elegida y fecha de lanzamiento | | |
-| ¿Hasta cuándo recibe actualizaciones de seguridad? | | |
-| ¿Cuáles son los requisitos de hardware y funciona en VirtualBox? | | |
-| ¿El instalador permite el particionado manual? | | |
-| ¿Existe una guía oficial para instalar Docker Engine en esta familia de distribución? | | |
-| ¿Existe una imagen base para el Dockerfile? | | |
+| Hasta cuándo recibe actualizaciones de seguridad | | |
+| Requisitos de hardware y si funciona en VirtualBox | | |
+| ¿El instalador permite particionado manual? | | |
+| Guía oficial para instalar Docker Engine en esa familia | | |
+| Imagen base del Dockerfile para esa versión | | |
 
-## 2. Debian – Máquina virtual de consola
+**Memoria RAM asignada a la VM:** __________________
 
-| Pregunta | Respuesta | Enlace de la fuente oficial |
+**¿Por qué elegimos esa cantidad de RAM?**
+
+__________________________________________________
+
+## 2. Debian (VM de consola)
+
+| **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
 | Versión elegida y fecha de lanzamiento | | |
-| ¿Hasta cuándo recibe actualizaciones de seguridad? | | |
-| ¿Cuáles son los requisitos de hardware y funciona en VirtualBox? | | |
-| ¿El instalador permite el particionado manual? | | |
-| ¿Existe una guía oficial para instalar Docker Engine en esta familia de distribución? | | |
-| ¿Existe una imagen base para el Dockerfile? | | |
+| Hasta cuándo recibe actualizaciones de seguridad | | |
+| Requisitos de hardware y si funciona en VirtualBox | | |
+| ¿El instalador permite particionado manual? | | |
+| Guía oficial para instalar Docker Engine en esa familia | | |
+| Imagen base del Dockerfile para esa versión | | |
 
-## 3. Ubuntu – Imagen base del Dockerfile
+**Memoria RAM asignada a la VM:** __________________
 
-| Pregunta | Respuesta | Enlace de la fuente oficial |
+**¿Por qué elegimos esa cantidad de RAM?**
+
+__________________________________________________
+
+## 3. Ubuntu (imagen base del Dockerfile)
+
+| **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
 | Versión elegida y fecha de lanzamiento | | |
-| ¿Hasta cuándo recibe actualizaciones de seguridad? | | |
-| ¿Cuáles son los requisitos de hardware y funciona en VirtualBox? | | |
-| ¿El instalador permite el particionado manual? | | |
-| ¿Existe una guía oficial para instalar Docker Engine en esta familia de distribución? | | |
-| ¿Existe una imagen base para el Dockerfile? | | |
+| Hasta cuándo recibe actualizaciones de seguridad | | |
+| Requisitos de hardware y si funciona en VirtualBox | | |
+| ¿El instalador permite particionado manual? | | |
+| Guía oficial para instalar Docker Engine en esa familia | | |
+| Imagen base del Dockerfile para esa versión | | |
 
+**Etiqueta de la imagen en Docker Hub:** __________________
+
+**Gestor de paquetes que utilizaremos:** __________________
