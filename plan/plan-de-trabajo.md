@@ -24,10 +24,3 @@
 | Sprint 2 | Servicios | 11 de diciembre de 2026 |
 | Sprint 3 | Cierre | 18 de diciembre de 2026 |
 | Sustentación | Presentación final | 19 de diciembre de 2026 |
-
-## Trabajo en equipo
-
-Los tres integrantes participarán en las actividades de Docker, Kubernetes, elaboración del sitio web, recopilación de evidencias, videos y sustentación.
-
-| Sprint 3 | Cierre | 18 de diciembre de 2026 |
-| Sustentación | Presentación final | 19 de diciembre de 2026 |
