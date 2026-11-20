@@ -17,8 +17,8 @@ Implementar un entorno de trabajo basado en sistemas operativos Linux mediante m
 | Integrante | Responsabilidad |
 |---|---|
 | Sahara Naylleth Velasco  | Coordinación del proyecto y administración del repositorio. |
-| Stephani Rodriguez | Instalación y configuración de máquinas virtuales y red. |
-| Jaime Gonzalez | Administración del sistema, servicios y scripts. |
+| Stephani Rodríguez Gómez | Instalación y configuración de máquinas virtuales y red. |
+| Jaime Andrés González | Administración del sistema, servicios y scripts. |
 
 ## Distribuciones utilizadas
 
