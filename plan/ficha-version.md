@@ -3,7 +3,7 @@
 
 ## ¿Qué es esta ficha?
 
-Esta ficha permite comprobar que las versiones de las distribuciones Linux elegidas sirven para desarrollar el proyecto. Se debe consultar la información en fuentes oficiales y agregar el enlace donde se verificó cada respuesta.
+Esta ficha tiene como objetivo validar que las versiones de las distribuciones Linux seleccionadas cumplen con los requisitos técnicos necesarios para el desarrollo del proyecto. Toda la información consignada ha sido extraída exclusivamente de documentación oficial, incluyendo el enlace directo de referencia para respaldar cada respuesta.
 
 Fecha de consulta: 20/11/2026
 
