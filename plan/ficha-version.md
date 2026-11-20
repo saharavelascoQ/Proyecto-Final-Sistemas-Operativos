@@ -17,7 +17,7 @@ Fecha de consulta: __________________
 
 | **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
-| Versión elegida y fecha de lanzamiento | | |
+| Versión elegida y fecha de lanzamiento |Kubuntu 26.04 LTS, lanzada el 23 de abril de 2026.| |
 | Hasta cuándo recibe actualizaciones de seguridad | | |
 | Requisitos de hardware y si funciona en VirtualBox | | |
 | ¿El instalador permite particionado manual? | | |
