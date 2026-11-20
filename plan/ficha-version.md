@@ -24,7 +24,7 @@ Fecha de consulta: 20/11/2026
 | Guía oficial para instalar Docker Engine en esa familia |Para instalar Docker Engine en Kubuntu 26.04 LTS ("Resolute Raccoon"), se utiliza el método recomendado del repositorio oficial de APT de Docker para Ubuntu (ya que Kubuntu comparte exactamente la misma base de paquetes y nombre clave|https://docs.docker.com/engine/install/ubuntu/|
 | Imagen base del Dockerfile para esa versión |No aplica. La imagen base elegida para el proyecto será Ubuntu 26.04.|https://hub.docker.com/_/ubuntu|
 
-**Memoria RAM asignada a la VM:**4 GB (4096 MB).
+**Memoria RAM asignada a la VM:** 4 GB (4096 MB).
 
 **¿Por qué elegimos esa cantidad de RAM?**
 
@@ -39,8 +39,9 @@ Elegimos 4 GB porque nuestro computador cuenta con 16 GB de memoria RAM y esta c
 | Requisitos de hardware y si funciona en VirtualBox |Debian 13 ("Trixie") funciona perfectamente en VirtualBox y requiere un mínimo de 1 GB de RAM y 10 GB de disco si incluye entorno gráfico (o 512 MB de RAM y 4 GB de disco en modo servidor sin interfaz).|https://www.youtube.com/watch?v=J-lH150zjc4|
 | ¿El instalador permite particionado manual? |Sí, el instalador de Debian permite seleccionar y configurar las particiones manualmente.|https://www.debian.org/releases/stable/amd64/ |
 | Guía oficial para instalar Docker Engine en esa familia |Docker cuenta con instrucciones oficiales para instalar Docker Engine en Debian 13.|https://docs.docker.com/engine/install/debian/|
+| Imagen base del Dockerfile para esa versión |La imagen base oficial en Docker Hub para Debian 13 ("Trixie") es debian:13 o mediante su nombre clave debian:trixie (con debian:trixie-slim como opción recomendada para producción por su menor tamaño).|https://hub.docker.com/_/debian|
 
-**Memoria RAM asignada a la VM:**2 GB (2048 MB).
+**Memoria RAM asignada a la VM:** 2 GB (2048 MB).
 
 **¿Por qué elegimos esa cantidad de RAM?**
 
