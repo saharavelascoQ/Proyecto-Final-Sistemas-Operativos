@@ -17,18 +17,18 @@ Fecha de consulta: __________________
 
 | **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
-| Versión elegida y fecha de lanzamiento |Kubuntu 26.04 LTS, lanzada el 23 de abril de 2026.| |
-| Hasta cuándo recibe actualizaciones de seguridad | | |
-| Requisitos de hardware y si funciona en VirtualBox | | |
-| ¿El instalador permite particionado manual? | | |
-| Guía oficial para instalar Docker Engine en esa familia | | |
-| Imagen base del Dockerfile para esa versión | | |
+| Versión elegida y fecha de lanzamiento |Kubuntu 26.04 LTS, lanzada el 23 de abril de 2026.|https://kubuntu.org/news/kubuntu-26-04-release-notes/|
+| Hasta cuándo recibe actualizaciones de seguridad |Hasta abril de 2029.|https://kubuntu.org/es/download/|
+| Requisitos de hardware y si funciona en VirtualBox |Necesitamos al menos un procesador de doble núcleo a 2 GHz (64-bit), 6 GB de RAM y 25 GB de espacio en disco.|https://kfocus.org/wf/reinstall.html|
+| ¿El instalador permite particionado manual? |Sí, permite realizar el particionado manual durante la instalación.|https://kfocus.org/wf/reinstall.html |
+| Guía oficial para instalar Docker Engine en esa familia |Para instalar Docker Engine en Kubuntu 26.04 LTS ("Resolute Raccoon"), se utiliza el método recomendado del repositorio oficial de APT de Docker para Ubuntu (ya que Kubuntu comparte exactamente la misma base de paquetes y nombre clave|https://docs.docker.com/engine/install/ubuntu/|
+| Imagen base del Dockerfile para esa versión |No aplica. La imagen base elegida para el proyecto será Ubuntu 26.04.|No aplica. La imagen base elegida para el proyecto será Ubuntu 26.04.|
 
-**Memoria RAM asignada a la VM:** __________________
+**Memoria RAM asignada a la VM: 4 GB (4096 MB).
 
 **¿Por qué elegimos esa cantidad de RAM?**
 
-__________________________________________________
+Elegimos 4 GB porque nuestro computador cuenta con 16 GB de memoria RAM y esta cantidad permite que Kubuntu funcione con su entorno gráfico y podamos realizar las actividades del proyecto.
 
 ## 2. Debian (VM de consola)
 
