@@ -15,6 +15,16 @@
 - Linux de consola: Debian.
 - Imagen base del Dockerfile: Ubuntu.
 
+## Distribución del trabajo por etapas
+
+| Sprint | Actividad | Fecha de cierre |
+|---|---|---|
+| Sprint 0 | Crear el repositorio, organizar el equipo, elaborar el plan de trabajo y verificar las versiones de las distribuciones. | 20 de noviembre de 2026 |
+| Sprint 1 | Instalar las máquinas virtuales Kubuntu y Debian, configurar sus recursos, realizar el particionado y establecer la conexión de red. | 27 de noviembre de 2026 |
+| Sprint 2 | Configurar usuarios, permisos, seguridad, firewall, servicios y scripts. Instalar Docker. | 11 de diciembre de 2026 |
+| Sprint 3 | Crear la imagen personalizada, publicarla en Docker Hub, realizar el despliegue en Kubernetes y completar el sitio web. | 18 de diciembre de 2026 |
+| Sustentación | Presentación final | 19 de diciembre de 2026 |
+
 ## Fechas de los sprints
 
 | Sprint | Actividad | Fecha de cierre |
@@ -24,3 +34,7 @@
 | Sprint 2 | Servicios | 11 de diciembre de 2026 |
 | Sprint 3 | Cierre | 18 de diciembre de 2026 |
 | Sustentación | Presentación final | 19 de diciembre de 2026 |
+
+## Organización y seguimiento
+
+El equipo realizará seguimiento al avance de las actividades mediante el repositorio de GitHub. Cada integrante será responsable de desarrollar y documentar las tareas asignadas, registrar sus aportes y participar en las entregas correspondientes a cada sprint.
