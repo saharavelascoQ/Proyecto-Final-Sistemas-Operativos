@@ -8,7 +8,7 @@ Este proyecto consiste en la implementación y configuración de dos máquinas v
 
 El desarrollo del proyecto permite poner en práctica los conocimientos adquiridos durante el curso de Sistemas Operativos, trabajando con máquinas virtuales, administración de sistemas, servicios, contenedores y herramientas de despliegue.
 
-Objetivo general
+## Objetivo general
 
 Implementar un entorno de trabajo basado en sistemas operativos Linux mediante máquinas virtuales y herramientas de virtualización y contenedores, aplicando conocimientos de instalación, configuración, administración, seguridad y despliegue de servicios.
 
