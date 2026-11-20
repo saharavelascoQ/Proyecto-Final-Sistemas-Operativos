@@ -21,7 +21,7 @@ Fecha de consulta: 20/11/2026
 | Hasta cuándo recibe actualizaciones de seguridad |Hasta abril de 2029.|https://kubuntu.org/es/download/|
 | Requisitos de hardware y si funciona en VirtualBox |Necesitamos al menos un procesador de doble núcleo a 2 GHz (64-bit), 6 GB de RAM y 25 GB de espacio en disco.|https://kfocus.org/wf/reinstall.html|
 | ¿El instalador permite particionado manual? |Sí, permite realizar el particionado manual durante la instalación.|https://kfocus.org/wf/reinstall.html |
-| Guía oficial para instalar Docker Engine en esa familia |Para instalar Docker Engine en Kubuntu 26.04 LTS ("Resolute Raccoon"), se utiliza el método recomendado del repositorio oficial de APT de Docker para Ubuntu (ya que Kubuntu comparte exactamente la misma base de paquetes y nombre clave|https://docs.docker.com/engine/install/ubuntu/|
+| Guía oficial para instalar Docker Engine en esa familia |Para instalar Docker Engine en Kubuntu 26.04 LTS ("Resolute Raccoon"), se utiliza el método recomendado del repositorio oficial de APT de Docker para Ubuntu (ya que Kubuntu comparte exactamente la misma base de paquetes y nombre clave.|https://docs.docker.com/engine/install/ubuntu/|
 | Imagen base del Dockerfile para esa versión |No aplica. La imagen base elegida para el proyecto será Ubuntu 26.04.|https://hub.docker.com/_/ubuntu|
 
 **Memoria RAM asignada a la VM:** 4 GB (4096 MB).
@@ -34,8 +34,8 @@ Elegimos 4 GB porque nuestro computador cuenta con 16 GB de memoria RAM y esta c
 
 | **Pregunta** | **Respuesta** | **Enlace donde lo comprobamos** |
 |---|---|---|
-| Versión elegida y fecha de lanzamiento |Debian 13.7 (Trixie), publicada el 12 de septiembre de 2026. Su versión inicial, Debian 13.0, fue lanzada el 9 de agosto de 2025 |https://www.debian.org/releases/trixie/|
-| Hasta cuándo recibe actualizaciones de seguridad |Soporte completo hasta el 9 de agosto de 2028 y soporte LTS hasta el 30 de junio de 2030|https://www.debian.org/releases/|
+| Versión elegida y fecha de lanzamiento |Debian 13.7 (Trixie), publicada el 12 de septiembre de 2026. Su versión inicial, Debian 13.0, fue lanzada el 9 de agosto de 2025.|https://www.debian.org/releases/trixie/|
+| Hasta cuándo recibe actualizaciones de seguridad |Soporte completo hasta el 9 de agosto de 2028 y soporte LTS hasta el 30 de junio de 2030.|https://www.debian.org/releases/|
 | Requisitos de hardware y si funciona en VirtualBox |Debian 13 ("Trixie") funciona perfectamente en VirtualBox y requiere un mínimo de 1 GB de RAM y 10 GB de disco si incluye entorno gráfico (o 512 MB de RAM y 4 GB de disco en modo servidor sin interfaz).|https://www.youtube.com/watch?v=J-lH150zjc4|
 | ¿El instalador permite particionado manual? |Sí, el instalador de Debian permite seleccionar y configurar las particiones manualmente.|https://www.debian.org/releases/stable/amd64/ |
 | Guía oficial para instalar Docker Engine en esa familia |Docker cuenta con instrucciones oficiales para instalar Docker Engine en Debian 13.|https://docs.docker.com/engine/install/debian/|
@@ -53,8 +53,7 @@ Elegimos 2 GB porque Debian se utilizará principalmente mediante consola y no n
 |---|---|---|
 | Versión elegida y fecha de lanzamiento |Ubuntu 26.04 LTS (Resolute Raccoon), lanzada el 23 de abril de 2026.|https://documentation.ubuntu.com/release-notes/26.04/|
 | Hasta cuándo recibe actualizaciones de seguridad |Hasta abril / mayo de 2031 (5 años de soporte estándar) y hasta abril / mayo de 2036 con Ubuntu Pro (ESM).|https://ubuntu.com/about/release-cycle|
-| Requisitos de hardware y si funciona en VirtualBox |
- si funciona en VirtualBox	Desktop: CPU Dual-Core 2 GHz, 6 GB RAM, 25 GB disco.
+| Requisitos de hardware y si funciona en VirtualBox |Desktop: CPU Dual-Core 2 GHz, 6 GB RAM, 25 GB disco.
 Server: 1.5 GB RAM, 5 GB disco (ISO).
 VirtualBox: Sí funciona (perfil Ubuntu 64-bit).|https://ubuntu.com/server/docs/reference/installation/system-requirements/|
 | ¿El instalador permite particionado manual? |Sí, mediante la opción "Manual partitioning" (particionado manual) para configurar tablas GPT/MBR y puntos de montaje.|https://ubuntu.com/desktop/docs/en/latest/tutorial/install-ubuntu-desktop/|
