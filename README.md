@@ -30,7 +30,7 @@ Implementar un entorno de trabajo basado en sistemas operativos Linux mediante m
 
 La versión elegida y su verificación están en la [ficha de versión](https://github.com/saharavelascoQ/Proyecto-Final-Sistemas-Operativos/blob/main/plan/ficha-version.md). El reparto del trabajo está en el [plan de trabajo](https://github.com/saharavelascoQ/Proyecto-Final-Sistemas-Operativos/blob/main/plan/plan-de-trabajo.md).
 
-Herramientas y tecnologías
+## Herramientas y tecnologías
 
 - VirtualBox: herramienta utilizada para crear y ejecutar las máquinas virtuales.
 - Kubuntu: distribución Linux seleccionada para la máquina virtual con entorno gráfico.
