@@ -53,9 +53,7 @@ Elegimos 2 GB porque Debian se utilizará principalmente mediante consola y no n
 |---|---|---|
 | Versión elegida y fecha de lanzamiento |Ubuntu 26.04 LTS (Resolute Raccoon), lanzada el 23 de abril de 2026.|https://documentation.ubuntu.com/release-notes/26.04/|
 | Hasta cuándo recibe actualizaciones de seguridad |Hasta abril / mayo de 2031 (5 años de soporte estándar) y hasta abril / mayo de 2036 con Ubuntu Pro (ESM).|https://ubuntu.com/about/release-cycle|
-| Requisitos de hardware y si funciona en VirtualBox |Desktop: CPU Dual-Core 2 GHz, 6 GB RAM, 25 GB disco.
-Server: 1.5 GB RAM, 5 GB disco (ISO).
-VirtualBox: Sí funciona (perfil Ubuntu 64-bit).|https://ubuntu.com/server/docs/reference/installation/system-requirements/|
+| Requisitos de hardware y si funciona en VirtualBox |Desktop: CPU Dual-Core 2 GHz, 6 GB RAM, 25 GB disco. Server: 1.5 GB RAM, 5 GB disco (ISO). VirtualBox: Sí funciona (perfil Ubuntu 64-bit).|https://ubuntu.com/server/docs/reference/installation/system-requirements/|
 | ¿El instalador permite particionado manual? |Sí, mediante la opción "Manual partitioning" (particionado manual) para configurar tablas GPT/MBR y puntos de montaje.|https://ubuntu.com/desktop/docs/en/latest/tutorial/install-ubuntu-desktop/|
 | Guía oficial para instalar Docker Engine en esa familia |Instalación desde el repositorio oficial APT de Docker para Ubuntu (resolute).|https://docs.docker.com/engine/install/ubuntu/|
 | Imagen base del Dockerfile para esa versión |Imagen oficial mínima de Ubuntu (FROM ubuntu:26.04).|https://hub.docker.com/_/ubuntu|
