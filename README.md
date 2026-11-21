@@ -59,7 +59,7 @@ Se presenta una comparación de Kubuntu, Debian y Ubuntu, teniendo en cuenta sus
 
 ## Conclusiones
 
-Este apartado se completará al finalizar el proyecto, teniendo en cuenta los resultados obtenidos, las actividades desarrolladas y los conocimientos adquiridos durante cada sprint.
+Este apartado se desarrollará al cierre del proyecto. En él se presentarán los resultados obtenidos, las actividades realizadas y los aprendizajes adquiridos en cada sprint, junto con las dificultades encontradas, las soluciones aplicadas y las oportunidades de mejora identificadas durante la implementación.
 
 ## Uso de inteligencia artificial
 
