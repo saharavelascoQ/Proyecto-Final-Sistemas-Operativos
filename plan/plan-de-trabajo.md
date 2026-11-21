@@ -37,4 +37,4 @@
 
 ## Organización y seguimiento
 
-El equipo realizará seguimiento al avance de las actividades mediante el repositorio de GitHub. Cada integrante será responsable de desarrollar y documentar las tareas asignadas, registrar sus aportes y participar en las entregas correspondientes a cada sprint.
+El equipo hará seguimiento al avance del proyecto a través del repositorio de GitHub. Cada integrante desarrollará y documentará las tareas que tenga asignadas, registrará sus aportes en el repositorio y participará en las entregas de cada sprint. Así habrá trazabilidad del trabajo y se podrá verificar la contribución de cada miembro.
