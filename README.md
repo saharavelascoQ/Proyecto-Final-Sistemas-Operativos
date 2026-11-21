@@ -10,8 +10,7 @@ El desarrollo del proyecto permite poner en práctica los conocimientos adquirid
 
 ## Objetivo general
 
-Implementar un entorno de trabajo basado en sistemas operativos Linux mediante máquinas virtuales y herramientas de virtualización y contenedores, aplicando conocimientos de instalación, configuración, administración, seguridad y despliegue de servicios.
-
+Implementar un entorno de trabajo basado en sistemas operativos Linux, utilizando máquinas virtuales y contenedores, mediante la instalación, configuración, administración y aseguramiento del sistema, con el fin de desplegar servicios funcionales de forma controlada, segura y reproducible.
 ## Integrantes
 
 | Integrante | Responsabilidad |
